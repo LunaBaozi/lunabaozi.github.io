@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 7
-description: an other project with a background image and giscus comments
+title: environmental sustainability
+description: a collection of things on the topic
 img: assets/img/9.jpg
 importance: 1
 category: work

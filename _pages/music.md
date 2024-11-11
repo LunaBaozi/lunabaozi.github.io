@@ -3,7 +3,7 @@ layout: page
 title: music
 permalink: /music/
 description: Some cool things!
-nav: true
+nav: false #true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
