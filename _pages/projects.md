@@ -6,7 +6,7 @@ description: Some cool things!
 nav: true
 nav_order: 3
 display_categories: [work, fun]
-horizontal: true #false
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
