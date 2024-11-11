@@ -1,24 +1,11 @@
 ---
-layout: default
-permalink: /blog/environment/
-title: blog
-description: with background image
-img: assets/img/4.jpg
+layout: page
+title: project 7
+description: an other project with a background image and giscus comments
+img: assets/img/9.jpg
 importance: 1
 category: work
-related_publications: true
-nav: true
-nav_order: 1
-pagination:
-  enabled: true
-  collection: posts
-  permalink: /page/:num/
-  per_page: 5
-  sort_field: date
-  sort_reverse: true
-  trail:
-    before: 1 # The number of links before the current page
-    after: 3 # The number of links after the current page
+giscus_comments: true
 ---
 
 <div class="post">
