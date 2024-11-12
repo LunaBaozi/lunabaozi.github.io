@@ -39,8 +39,8 @@
       "url": "https://www.uni-bielefeld.de",
       "area": "Computational Biology",
       "studyType": "Internship",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2022-04-15",
+      "endDate": "2022-08-15",
       "score": "10"
     },
     {
@@ -48,7 +48,7 @@
       "location": "Trento, Italy",
       "url": "https://offertaformativa.unitn.it/en/lm/artificial-intelligence-systems",
       "area": "Artificial Intelligence Systems",
-      "studyType": "MSc",
+      "studyType": "MSc Degree",
       "startDate": "2020-09-15",
       "endDate": "2023-03-23",
       "score": "10",
@@ -59,7 +59,7 @@
       "location": "Bologna, Italy",
       "url": "https://corsi.unibo.it/1cycle/Genomics",
       "area": "Genomics",
-      "studyType": "BSc",
+      "studyType": "BSc Degree",
       "startDate": "2017-09-15",
       "endDate": "2020-10-12",
       "score": "10",
@@ -181,22 +181,22 @@
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
+      "icon": "fa-solid fa-egg-fried"
     },
     {
       "language": "German",
       "fluency": "Learning",
-      "icon": ""
+      "icon": "fa-solid fa-bread-slice"
     },
     {
       "language": "Mandarin Chinese",
       "fluency": "Learning",
-      "icon": ""
+      "icon": "fa-solid fa-bowl-chopsticks-noodles"
     },
     {
       "language": "French",
       "fluency": "Learning",
-      "icon": ""
+      "icon": "fa-solid fa-croissant"
     }
   ],
   "interests": [
