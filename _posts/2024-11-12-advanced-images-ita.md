@@ -1,14 +1,16 @@
 ---
 layout: post
-title: un post con componenti grafiche avanzate - ENG
+title: un post con componenti grafiche avanzate - IT
 date: 2024-11-12 11:46:00
 description: questo è come le componenti grafiche dovrebbero apparire
 tags: formatting images
-categories: sample-posts
+categories: feminism
 thumbnail: assets/img/7.jpg
 images:
   compare: true
   slider: true
+toc:
+  sidebar: left
 ---
 
 This is an example post with advanced image components.
