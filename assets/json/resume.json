@@ -1,12 +1,11 @@
 {
   "basics": {
     "name": "Luna Pianesi",
-    "label": "(Wannabe) Scientist",
+    "label": "Wannabe scientist",
     "image": "",
     "email": "lpianesi@cebitec.uni-bielefeld.de",
-    "phone": "(912) 123-4567",
+    "phone": "+49 521 106-86685",
     "url": "https://LunaBaozi.github.io/",
-    "summary": "A Italian-born student",
     "location": {
       "address": "Universitätsstraße 25",
       "postalCode": "33615",
@@ -27,7 +26,7 @@
       "institution": "Bielefeld University, Bielefeld, Germany",
       "location": "Bielefeld, Germany",
       "url": "https://www.uni-bielefeld.de",
-      "area": "Computational Biology",
+      "area": "Bioinformatics, Computational Biology, Artificial Intelligence",
       "studyType": "PhD student",
       "startDate": "2023-04-15",
       "endDate": "current",
@@ -42,40 +41,40 @@
       "studyType": "Internship",
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
+      "score": "10"
+    },
+    {
+      "institution": "University of Trento, Trento, Italy",
+      "location": "Trento, Italy",
+      "url": "https://offertaformativa.unitn.it/en/lm/artificial-intelligence-systems",
+      "area": "Artificial Intelligence Systems",
+      "studyType": "MSc",
+      "startDate": "2020-09-15",
+      "endDate": "2023-03-23",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Deep learning", "Machine learning", "Computer vision", "Natural language processing"]
+    },
+    {
+      "institution": "University of Bologna, Bologna, Italy",
+      "location": "Bologna, Italy",
+      "url": "https://corsi.unibo.it/1cycle/Genomics",
+      "area": "Genomics",
+      "studyType": "BSc",
+      "startDate": "2017-09-15",
+      "endDate": "2020-10-12",
+      "score": "10",
+      "courses": ["Molecular biology", "Molecular dynamics", "Genetics", "Statistics", "Algorithms and data structures"]
     }
   ],
   "work": [
     {
-      "name": "Centre for Biotechnology, Faculty of Technology, Bielefeld University",
+      "name": "Faculty of Technology, Bielefeld University",
       "position": "Assistant lecturer",
       "url": "https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=419189623",
       "startDate": "2023-10-15",
       "endDate": "current",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Programming"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "Assistant lecturer for the following courses:",
+      "highlights": ["Programming in Python (Winter '23, '24)", "Graph Neural Networks in Biology (Summer '24)"]
     }
   ],
   "certificates": [
@@ -175,9 +174,9 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Italian",
       "fluency": "Native speaker",
-      "icon": "assets/img/germany.png"
+      "icon": "fa-solid fa-pizza-slice"
     },
     {
       "language": "English",
@@ -185,19 +184,36 @@
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "German",
+      "fluency": "Learning",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Mandarin Chinese",
+      "fluency": "Learning",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Learning",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Feminism",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Quantum Mechanics",
