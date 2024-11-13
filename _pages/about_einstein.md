@@ -1,7 +1,5 @@
 Hi! Let's see if the dumpling emoji works: :sparkles:
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Ciao! I'm Luna, and I'm the creator of this blog :dumpling:
+You can find bits and pieces of information about me all over the pages, so I'll just use this space to say that I love animals (I'm a cat person), chinese food, wearing skirts and my favourite colour is red. Thanks for visiting the blog and I hope you'll enjoy reading the posts!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
