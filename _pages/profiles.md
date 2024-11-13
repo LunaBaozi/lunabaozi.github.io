@@ -1,9 +1,9 @@
 ---
 layout: profiles
-permalink: /collaborators/
-title: collaborators
+permalink: /people/
+title: writers
 description: members of the lab or group
-nav: false #true
+nav: true
 nav_order: 7
 
 profiles:
