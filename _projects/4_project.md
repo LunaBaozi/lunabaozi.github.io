@@ -13,8 +13,8 @@ toc:
 
 ## Introduction
 
-### Step 1: a great story that also makes you feel uncomfortable
-#### Life of the party, Tea Hacic-Vlahovic
+Step 1: a great story that also makes you feel uncomfortable
+Life of the party, Tea Hacic-Vlahovic
 
 ### Step 2: a manifesto with radical ideas
 #### SCUM Manifesto, Valerie Solanas
