@@ -9,34 +9,51 @@ toc:
   sidebar: left
 ---
 
-# ENGLISH VERSION
+## ENGLISH VERSION
 
-## Introduction
+### Introduction
+
+### Dive in!
 
 Step 1: a great story that also makes you feel uncomfortable
+
 Life of the party, Tea Hacic-Vlahovic
 
-### Step 2: a manifesto with radical ideas
-#### SCUM Manifesto, Valerie Solanas
+----------------------------------------------------------------------------
 
-### Step 3: informing yourself about intersectional feminism and trans theory
-#### Countersexual manifesto, Paul Preciado
+Step 2: a manifesto with radical ideas
+SCUM Manifesto, Valerie Solanas
 
-### Step 4: realising how deep the reality of patriarchy is in our society
-#### Girl, Woman, Other, Bernardine Evaristo
+----------------------------------------------------------------------------
 
-### Step 5: overturning the role of nature and machines
-#### Xenofeminism, Helen Hester
+Step 3: informing yourself about intersectional feminism and trans theory
 
-### Step 6: wrapping everything up
-#### We should all be feminists, Chimamanda Ngozi Adichie
+Countersexual manifesto, Paul Preciado
+
+----------------------------------------------------------------------------
+
+Step 4: realising how deep the reality of patriarchy is in our society
+
+Girl, Woman, Other, Bernardine Evaristo
+
+----------------------------------------------------------------------------
+
+Step 5: overturning the role of nature and machines
+
+Xenofeminism, Helen Hester
+
+----------------------------------------------------------------------------
+
+Step 6: wrapping everything up
+
+We should all be feminists, Chimamanda Ngozi Adichie
 
 
 
 
-# ITALIAN VERSION
+## ITALIAN VERSION
 
-## Introduzione
+### Introduzione
 
 ### Step 1: una bella storia che ti mette anche a disagio
 #### L'anima della festa, Tea Hacic-Vlahovic
