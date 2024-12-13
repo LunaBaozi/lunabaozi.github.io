@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python's functions tutorial
+title: jupyter
 date: 2024-12-12 14:40:00-0400
 description: an example of a blog post with jupyter notebook
 tags: python
