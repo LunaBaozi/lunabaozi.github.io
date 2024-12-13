@@ -2,7 +2,7 @@
 layout: page
 title: Programming in Python
 description: WiSe Bielefeld University
-img: assets/img/pandas
+img: assets/img/3
 importance: 3
 category: winter
 toc:
