@@ -5,7 +5,7 @@ permalink: /teaching/
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
-display_categories: [winter, summer]
+display_categories: [Bielefeld University]
 horizontal: true
 ---
 
