@@ -20,4 +20,8 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I'm Luna, and this is Baozi blog!
 
-BIG WORK IN PROGRESS SIGN HERE!
+I like many things and I like talking about them. Research, literature, music, art...here you will find some written thoughts about them. 
+
+Often, I remind myself: science is political, and people are not their jobs.
+
+Interested in writing something together? Scroll down and find my contacts c:

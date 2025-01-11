@@ -12,7 +12,7 @@ toc:
 ## ENGLISH VERSION
 
 ### Introduction
-Hi! By reading this post I assume that you're already comfortable with the idea of questioning yourself (?) on your ideas about feminism and patriarchy. 
+Hello! By reading this post I assume that you're already comfortable with the idea of questioning yourself (?) on your ideas about feminism and patriarchy. 
 Are you thinking "Yet another bitch writing about non-existent problems" or "Your body, my choice" or even (without particular depth of though) "BULLSHIT"? Well, then I warly invite you to get the fuck out of this blog asap. Never visit it again. 
 Unfortunately, despite being a firm believer that talking solves everything, I'm also a firm believer that talking to people who don't want to listen is a waste of time and energies.  
 Are you staying instead? Welcome then! I'm really happy you're here. I hope by reading this post you can discover a few new things and I'm looking forward to hearing your feedback about it. Let's start!
